@@ -971,7 +971,7 @@ footer .copyright {
   }
 }
 
-@media (max-width: 477px) {
+@media (max-width: 580px) {
   .section-p1 {
     padding: 20px;
   }
